@@ -1,0 +1,17 @@
+[package]
+name = "factorial_no"
+version = "0.1.0"
+authors = ["alifya53 <alifyahussian53@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+description ="You can generate factorial numbers of a number. To use this crate import this in your main.rs file 'use factorial_no::factor()' and in main function call 'factorial_no::factor(i32)' "
+
+repository = " repo link  "
+
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
