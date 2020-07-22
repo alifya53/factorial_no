@@ -7,7 +7,7 @@ license = "MIT"
 
 description ="You can generate factorial numbers of a number. To use this crate import this in your main.rs file 'use factorial_no::factor()' and in main function call 'factorial_no::factor(i32)' "
 
-repository = " repo link  "
+repository = "https://github.com/alifya53/factorial_no"
 
 
 
